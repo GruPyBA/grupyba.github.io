@@ -1,9 +1,10 @@
 # Site settings
 title: GruPyBA
 header-img: img/home-bg.jpg
+nav-logo: img/python-logo.png
 email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+copyright_name: GruPyBA
+description: "Grupo de Usuários Python da Bahia"
 baseurl: ""
 url: "http://grupyba.com.br"
 twitter_username: 
