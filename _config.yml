@@ -2,15 +2,19 @@
 title: GruPyBA
 header-img: img/home-bg.jpg
 nav-logo: img/python-logo.png
-email: your-email@yourdomain.com
+
+email: grupy-ba@googlegroups.com
 copyright_name: GruPyBA
 description: "Grupo de Usuários Python da Bahia"
 baseurl: ""
 url: "http://grupyba.com.br"
-twitter_username: 
+
+# Social
+twitter_username:  
 github_username:  
 facebook_username:  
-email_username:  your-email@yourdomain.com
+email_username: grupy-ba@googlegroups.com
+telegram_group: grupyba
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
